@@ -5,7 +5,7 @@
 	border-color: rgba($color_mercury,0.5) rgba($color_bon_jour,0.5) $color_mischka;
 	border-radius: 3px;
 	text-decoration: none;
-	background: $white;
+	background: $gray-400;
 	color: $color_shark;
 	&:hover {
 		box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
@@ -24,49 +24,49 @@
 	@extend %btnextend;
 	&.btn-success {
       background-color: $success;
-      color: $white;
+      color: $gray-400;
       border-color: $success;
       &:visited {
-        color: $white;
+        color: $gray-400;
       }
       &:hover {
-        background-color: $white;
+        background-color: $gray-400;
         color: $success;
       }
     }
     &.btn-warning {
       background-color: $warning;
-      color: $white;
+      color: $gray-400;
       border-color: $warning;
       &:visited {
         color: $white;
       }
       &:hover {
-        background-color: $white;
+        background-color: $gray-400;
         color: $warning;
       }
     }
     &.btn-danger {
       background-color: $danger;
-      color: $white;
+      color: $gray-400;
       border-color: $danger;
       &:visited {
         color: $white;
       }
       &:hover {
-        background-color: $white;
+        background-color: $gray-400;
         color: $danger;
       }
     }
     &.btn-info {
       background-color: $info;
-      color: $white;
+      color: $gray-400;
       border-color: $info;
       &:visited {
-        color: $white;
+        color: $gray-400;
       }
       &:hover {
-        background-color: $white;
+        background-color: $gray-400;
         color: $info;
       }
     }
