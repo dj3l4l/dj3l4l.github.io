@@ -13,7 +13,7 @@ If a person comes away from this blog thinking, "wow, that *is* interesting, I n
 
 ## A Little About Me
 
-In 2011, I received an Msci in Astronomy and Physics from UCL. My Masters thesis was on "Black Hole Thermodynamics and the Information Loss Paradox", and my advisor was [Prof. Ian Ford](https://www.ucl.ac.uk/physics-astronomy/people/professor-ian-ford).
+In 2011, I received an MSci in Astronomy and Physics from UCL. My Masters thesis was on "Black Hole Thermodynamics and the Information Loss Paradox", and my advisor was [Prof. Ian Ford](https://www.ucl.ac.uk/physics-astronomy/people/professor-ian-ford).
 
 I then went on to obtain a PhD in the Physics of Astronomical Detectors from the [Quantum Sensors Group](https://www.phy.cam.ac.uk/research/research-groups/qs) at the Cavendish Laboratory, University of Cambridge. My PhD advisor was [Prof. Stafford Withington](https://www.phy.cam.ac.uk/directory/withingtons), and my thesis was  titled "Thermal Transport and Noise in Micro-Engineered Support Structures for Detector Applications": an investigation in [novel methods for the accurate simulation of heat transport](https://aip.scitation.org/doi/10.1063/1.4893019), and for the utilisation of phase-coherent thermal waves to create low-dimensional "heat interferometers". The application of this form of heat interferometry was [proven empirically (for the first time)](https://aip.scitation.org/doi/10.1063/1.5041348) to reduce noise in superconducting detectors.
 
