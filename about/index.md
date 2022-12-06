@@ -13,7 +13,7 @@ If a person comes away from this blog thinking, "wow, that *is* interesting, I n
 
 ## A Long Tale of My Personal Interests and Motivations
 
-At the start of 2022, I stopped working on a computer vision startup that a friend and I had co-founded in 2016. At that point, I decided to spend the next year working solely on personal projects. 
+At the start of 2022, I stopped working on a startup that a friend and I had been working on since 2016. At that point, I decided to spend the next year working solely on personal projects. 
 
 These projects were designed to further my understanding of Bayesian decision theory. This may sound strange to some. Why spend a whole year on Bayesian decision theory - is it really so interesting? Is it really so complex? And is the return on that sort of investment worth it? 
 
