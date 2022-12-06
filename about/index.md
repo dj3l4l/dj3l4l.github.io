@@ -31,7 +31,7 @@ Whilst reading the works of Bayesian pioneers (such as Jeffreys, Jaynes, Gibbs(!
 
 Though perhaps not *completely* forgotten, many important discoveries regarding Bayesian inference remain trapped in academic niches. These niches were themselves stuck in a time when the computer was still in its infancy, and when analytical (not computational) solutions limited the scope of possible progress.
 
-When I realised this, I decided to create a website (this website), which I would use to publish lesser-known, but important, concepts. My hopes are that the blogposts, projects and open-source code that I write will illustrate to others how valuable those consepts are. And perhaps even connect those ideas to more current and pressing issues. For example, the measurement and removal of unwanted bias from automated decision processes.
+When I realised this, I decided to create a website (this website), which I would use to publish lesser-known but valuable concepts. My hopes are that the blogposts, projects and open-source code that I write will illustrate to others how valuable those consepts are. And perhaps even connect those ideas to more current and pressing issues. For example, the measurement and removal of unwanted bias from automated decision processes.
 
 There is no way to know when a paradigm shift will occur in Explainable AI, or what it will look like when it does occur. But I am confident that, whatever and whenever such a breakthrough will happen, it will not be due to the discovery of new and exotic methods for computationally encoding and decoding **patterns**. 
 
