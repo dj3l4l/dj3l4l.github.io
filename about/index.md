@@ -23,7 +23,7 @@ And so, at the start of 2022, I asked myself: "How can I contribute to the futur
 
 After much deliberation, I came to believe that those frontiers would lie in undiscovered innovations of decision theory and probabilistic reasoning. After all, aren't the most valuable decisions made about uncertain outcomes? 
 
-Then, if we are to create truly transparent "thinking machines", must we not find an objective way to translate uncertainty into human language (and vice versa)?
+And, if we are to create truly transparent "thinking machines", must we not find an objective way to translate uncertainty into human language (and vice versa)?
 
 Thankfully, such a daunting task is not one that we embark on from scratch. For the past hundred years or so, Bayesian probability theory has been used as an objective means to translate subjective knowledge into numerical form. It has even been proven that these objective rules mirror the axioms of formal logic (that is, if a decision violates the rules of Bayesian inference, then it must also violate the rules of logic).
 
