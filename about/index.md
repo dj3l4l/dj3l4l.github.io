@@ -25,7 +25,7 @@ Whilst reading the works of Bayesian pioneers (such as Jeffreys, Jaynes, Gibbs(!
 
 It then became my goal to create a website (this website), on which I would publish partially forgotten concepts from the past, in the hopes of illustrating to others how they connect to much more modern and pressing questions: for example, how to measure, track and remove unwanted bias from automated decision processes.
 
-There is no way for me to know when we will obtain a paradigm-shifting breakthrough in Explainable AI, but I am confident that whatever and whenever such a breakthrough will happen, it will not be due to the discovery of new and exotic methods for encoding and decoding **patterns** but, rather, it will come from answers to questions such as: "Which patterns in a given context constitute **knowledge**; what do we mean when we say we **learn**, and how can we describe **subjective** knowledge in a **universally objective, interpetable language**?".
+There is no way to know when we a paradigm-shifting breakthrough will occur in Explainable AI. But I am confident that, whatever and whenever such a breakthrough will happen, it will not be due to the discovery of new and exotic methods for encoding and decoding **patterns**. Rather, it will come from practical answers to questions such as: "Which patterns in a given context constitute **knowledge**?", "What do we mean when we say we **learn**?" and "How can **subjective** knowledge be translated to an **objective** and **universally interpetable language**?".
 
 
 ## A Brief Rundown of My Technical Achievements
