@@ -15,7 +15,7 @@ If a person comes away from this blog thinking, "wow, that *is* interesting, I n
 
 At the start of 2022, I stopped working on a startup that a friend and I had been working on since 2016. At that point, I decided to spend the next year working solely on personal projects. 
 
-These projects were designed to further my understanding of Bayesian decision theory. This may sound strange to some. Why spend a whole year on Bayesian decision theory - is it really so interesting? Is it really so complex? And is the return on that sort of investment worth it? 
+These projects were designed to further my understanding of Bayesian decision theory. This may sound strange to some. Why spend a whole year on Bayesian decision theory? Is it really so interesting? Is it really so complex? And is the return on that sort of investment worth it? 
 
 The answer I have to those questions is an emphatic "YES". The reason for that answer begins in the fact that, for much of my adult life, I have been absolutely fascinated (nay, obsessed) with explainable automated algorithms (or, in modern vernacular, Explainable AI). Explainable algorithms are those that are not only designed to make automated decisions, but that also provide human beings with *interpretable reasons* for those decisions. In the most fascinating of cases, explainable algorithms can teach human beings new things about the world around us.
 
