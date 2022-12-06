@@ -29,7 +29,7 @@ Thankfully, such a daunting task is not one that we embark on from scratch. For 
 
 Whilst reading the works of Bayesian pioneers (such as Jeffreys, Jaynes, Gibbs(!) and Laplace(!!)), it suddenly became apparent to me that a large body of work from the early 50s to the late 80s contained incredibly important, but mostly forgotten insights. 
 
-Though perhaps not *completely* forgotten, many important discoveries regarding Bayesian inference remain trapped in academic niches. These niches were themselves stuck in a time when the computer was still in its infancy, and when analytical (not computational) solutions limited the scope of possible progress.
+Though perhaps not *completely* forgotten, many important discoveries regarding Bayesian inference remain trapped in academic niches. These niches are themselves stuck in a time when the computer was still in its infancy, and when analytical (not computational) solutions limited the scope of possible progress.
 
 When I realised this, I decided to create a website (this website), which I would use to publish lesser-known but valuable concepts: not just from Bayesian inference, but from other relevant fields also. My hopes are that the blogposts, projects and open-source code that I write will illustrate to others how valuable those consepts are. And perhaps even connect those ideas to more current and pressing issues. For example, the measurement and removal of unwanted bias from automated decision processes.
 
