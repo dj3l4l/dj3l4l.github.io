@@ -19,15 +19,23 @@ These projects were designed to further my understanding of Bayesian decision th
 
 The answer I have to those questions is an emphatic "YES". The reason for that answer begins in the fact that, for much of my adult life, I have been absolutely fascinated (nay, obsessed) with explainable automated algorithms (or, in modern vernacular, Explainable AI). Explainable algorithms are those that are not only designed to make automated decisions, but that also provide human beings with *interpretable reasons* for those decisions. In the most fascinating of cases, explainable algorithms can teach human beings new things about the world around us.
 
-And so, at the start of 2022, I asked myself: "How can I contribute to the future of explainable AI? What are the possible frontiers that my humble mind can comprehend?" And, after much deliberation, I came to believe that those frontiers would lie in as-yet undiscovered innovations of decision theory and probabilistic reasoning. After all, aren't the most valuable decisions about uncertain outcomes? Then, if we are to create truly transparent "thinking machines", must we not find an objective way to translate any uncertainty into human language (and vice versa)?
+And so, at the start of 2022, I asked myself: "How can I contribute to the future of explainable AI? What are the possible frontiers that my humble mind can comprehend?" 
 
-Thankfully, such a daunting task is not one that we embark on from scratch. For the past hundred years or so, Bayesian probability theory has been used as an objective means to express subjective knowledge in numerical form. It has been proven that those objective rules mirror the axioms of formal logic (that is, if a decision violates the rules of Bayesian inference, then it must also violate logic).
+After much deliberation, I came to believe that those frontiers would lie in undiscovered innovations of decision theory and probabilistic reasoning. After all, aren't the most valuable decisions about uncertain outcomes? 
 
-Whilst reading the works of Bayesian pioneers (such as Jeffreys, Jaynes, Gibbs(!) and Laplace(!!)), it suddenly became apparent to me that a large body of work from the early 50s to the late 80s contained incredibly important, but mostly forgotten insights. Though perhaps not *completely* forgotten, many important discoveries regarding Bayesian inference remain trapped in academic niches: and from times when the computer was still in its infancy, and when analytical (not computational) solutions were limiting their applicability.
+Then, if we are to create truly transparent "thinking machines", must we not find an objective way to translate any uncertainty into human language (and vice versa)?
 
-It then became my goal to create a website (this website), on which I would publish partially forgotten concepts from the past, in the hopes of illustrating to others how they connect to much more modern and pressing questions: for example, how to measure, track and remove unwanted bias from automated decision processes.
+Thankfully, such a daunting task is not one that we embark on from scratch. For the past hundred years or so, Bayesian probability theory has been used as an objective means to translate subjective knowledge into numerical form. It has even been proven that these objective rules mirror the axioms of formal logic (that is, if a decision violates the rules of Bayesian inference, then it must also violate the rules of logic).
 
-There is no way to know when we a paradigm-shifting breakthrough will occur in Explainable AI. But I am confident that, whatever and whenever such a breakthrough will happen, it will not be due to the discovery of new and exotic methods for encoding and decoding **patterns**. Rather, it will come from practical answers to questions such as: "Which patterns in a given context constitute **knowledge**?", "What do we mean when we say we **learn**?" and "How can **subjective** knowledge be translated to an **objective** and **universally interpetable language**?".
+Whilst reading the works of Bayesian pioneers (such as Jeffreys, Jaynes, Gibbs(!) and Laplace(!!)), it suddenly became apparent to me that a large body of work from the early 50s to the late 80s contained incredibly important, but mostly forgotten insights. 
+
+Though perhaps not *completely* forgotten, many important discoveries regarding Bayesian inference remain trapped in academic niches. These niches were themselves stuck in a time when the computer was still in its infancy, and when analytical (not computational) solutions limited the scope of possible progress.
+
+When I realise this, it became my goal to create a website (this website), which I would use to publish important concepts from the past: in the hopes of illustrating to others how they valuable they are, and how they connect to much more modern and pressing questions. For example, the measurement and removal of unwanted bias from automated decision processes.
+
+There is no way to know when we a paradigm shift will occur in Explainable AI. But I am confident that, whatever and whenever such a breakthrough will happen, it will not be due to the discovery of new and exotic methods for computationally encoding and decoding **patterns**. 
+
+Rather, it will come from practical and applicable answers to questions such as: "Which patterns in a given context constitute **knowledge**?", "What do we mean when we say we **learn**?" and "How can all forms of **subjective** knowledge be described by an **objective** and **universally interpretable** mathematical language?".
 
 
 ## A Brief Rundown of My Technical Achievements
