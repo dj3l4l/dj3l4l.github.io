@@ -28,7 +28,7 @@ It then became my goal to create a website (this website), on which I would publ
 There is no way for me to know when we will obtain a paradigm-shifting breakthrough in Explainable AI, but I am confident that whatever and whenever such a breakthrough will happen, it will not be solely due to the discovery of new and exotic methods for encoding and decoding **patterns** but, rather, answers to questions such as: "Which patterns in a given context constitute **knowledge**, what do we mean when we say we **learn** them and how can describe **subjective** knowledge in a **universally objective** way?".
 
 
-## A Brief Technical Run-Down of my Past
+## A Brief Rundown of My Technical Achievements
 
 In 2011, I received an MSci in Astronomy and Physics from UCL. My Masters thesis was on "Black Hole Thermodynamics and the Information Loss Paradox", and my advisor was [Prof. Ian Ford](https://www.ucl.ac.uk/physics-astronomy/people/professor-ian-ford).
 
