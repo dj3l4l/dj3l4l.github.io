@@ -17,7 +17,9 @@ At the start of 2022, I stopped working on a startup that I co-founded with a fr
 
 These projects were designed to further my understanding of Bayesian decision theory. This may sound strange to some. Why spend a whole year on Bayesian decision theory? Is it really so interesting? Is it really so complex? And is the return on that sort of investment worth it? 
 
-The answer I have to those questions is an emphatic "YES". The reason for that answer begins with the fact that, for much of my adult life, I have been absolutely fascinated (nay, obsessed) with explainable automated algorithms (or, in modern vernacular, Explainable AI). Explainable algorithms are those that are not only designed to make automated decisions, but that also provide human beings with *interpretable reasons* for those decisions. In the most fascinating of cases, explainable algorithms can teach human beings new things about the world around us.
+The answer I have to those questions is an emphatic "YES". The reason for that answer begins with the fact that, for much of my adult life, I have been fascinated (perhaps obsessed) with explainable algorithms. Explainable algorithms are those that are not only designed to make automated decisions, but that also provide human beings with *interpretable reasons* for those decisions. In the most fascinating of cases, explainable algorithms can teach human beings new things about the world around us. 
+
+These days, automated explainable algorithms are often referred to as "Explainable AI": a relatively new field that has emerged out of a neccesity to tackle the dangers of opaque algorithmic decisions.
 
 And so, at the start of 2022, I asked myself: "How can I contribute to the future of explainable AI? What are the possible frontiers that my humble mind can comprehend?" 
 
@@ -31,7 +33,7 @@ Whilst reading the works of Bayesian pioneers (such as Jeffreys, Jaynes, Gibbs(!
 
 Though perhaps not *completely* forgotten, many important discoveries regarding Bayesian inference remain trapped in academic niches. These niches are themselves stuck in a time when the computer was still in its infancy, and when analytical (not computational) solutions limited the scope of possible progress.
 
-When I realised this, I decided to create a website (this website), which I would use to publish lesser-known but valuable concepts: not just from Bayesian inference, but from other relevant fields also. My hopes are that the blogposts, projects and open-source code that I write will illustrate to others how valuable those consepts are. And perhaps even connect those ideas to more current and pressing issues. For example, the measurement and removal of unwanted bias from automated decision processes.
+When I realised this, I decided to create a website (this website), which I would use to publish lesser-known but valuable concepts: not just from Bayesian inference, but from other relevant fields also. My hopes are that the blogposts, projects and open-source code that I write will illustrate to others how valuable those concepts are. And perhaps even connect those ideas to more current and pressing issues. For example, the measurement and removal of unwanted bias from automated decision processes.
 
 There is no way to know when a paradigm shift will occur in Explainable AI, or what it will look like when it does occur. But I am confident that, whatever and whenever such a breakthrough will happen, it will not be due to the discovery of new and exotic methods for *computationally* encoding and decoding *patterns*. 
 
