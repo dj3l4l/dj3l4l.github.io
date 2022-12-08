@@ -21,7 +21,7 @@ The answer I have to those questions is an emphatic "YES". The reason for that a
 
 And so, at the start of 2022, I asked myself: "How can I contribute to the future of explainable AI? What are the possible frontiers that my humble mind can comprehend?" 
 
-After much deliberation, I came to believe that those frontiers would lie in undiscovered innovations of decision theory and probabilistic reasoning. After all, aren't the most valuable decisions we make about uncertain outcomes?
+After much deliberation, I came to believe that those frontiers would lie in undiscovered innovations of decision theory and probabilistic reasoning. After all, aren't the most valuable decisions regarding uncertain outcomes?
 
 And, if we are to create truly transparent "thinking machines", must we not find an objective way to translate uncertainty into human language (and vice versa)?
 
