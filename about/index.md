@@ -19,9 +19,7 @@ These projects were designed to further my understanding of Bayesian decision th
 
 The answer I have to those questions is an emphatic "YES". The reason for that answer begins with the fact that, for much of my adult life, I have been fascinated (perhaps obsessed) with explainable algorithms. Explainable algorithms are those that are not only designed to make automated decisions, but that also provide human beings with *interpretable reasons* for those decisions. In the most fascinating of cases, explainable algorithms can teach human beings new things about the world around us. 
 
-These days, automated explainable algorithms are often referred to as "Explainable AI": a relatively new field that has emerged out of a neccesity to tackle the dangers of opaque algorithmic decisions.
-
-And so, at the start of 2022, I asked myself: "How can I contribute to the future of explainable AI? What are the possible frontiers that my humble mind can comprehend?" 
+These days, automated explainable algorithms are often referred to as "Explainable AI": a relatively new field, thoroughly aligned with my interests. And so, at the start of 2022, I found myself wondering: "How can I contribute to the future of explainable AI? What are the possible frontiers that my humble mind can comprehend?" 
 
 After much deliberation, I came to believe that those frontiers would lie in undiscovered innovations of decision theory and probabilistic reasoning. After all, aren't the most valuable decisions made about uncertain outcomes? 
 
