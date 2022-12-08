@@ -27,7 +27,7 @@ And, if we are to create truly transparent "thinking machines", must we not find
 
 Thankfully, such a daunting task is not one that we embark on from scratch. For the past hundred years or so, Bayesian probability theory has been used as an objective means to translate subjective knowledge into numerical form. It has even been proven that these objective rules mirror the axioms of formal logic (that is, if a decision violates the rules of Bayesian inference, then it must also violate the rules of logic).
 
-Whilst reading the works of Bayesian pioneers (such as Jeffreys, Jaynes, Gibbs(!) and Laplace(!!)), it suddenly became apparent to me that a large body of work from the early 50s to the late 80s contained incredibly important, but mostly forgotten insights. 
+Whilst reading the works of Bayesian pioneers (such as Jeffreys and Jaynes, and even Gibbs(!) and Laplace(!!)), it suddenly became apparent to me that a large body of work from the early 50s to the late 80s contained incredibly important, but mostly forgotten insights. 
 
 Though perhaps not *completely* forgotten, many important discoveries regarding Bayesian inference remain trapped in academic niches. These niches are themselves stuck in a time when the computer was still in its infancy, and when analytical (not computational) solutions limited the scope of possible progress.
 
