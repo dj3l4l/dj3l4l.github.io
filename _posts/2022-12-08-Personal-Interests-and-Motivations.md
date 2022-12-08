@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "A Long Tale of My Personal Interests and Motivations"
+title: "My Personal Interests and Motivations"
 date: 2022-12-08
 excerpt: "Why a blog?"
 tags: [Personal]
 comments: true
 ---
 
-## A Long Tale of My Personal Interests and Motivations
+## A Love for Explainable Algorithms
 
 At the start of 2022, I stopped working on a startup that I co-founded with a friend of mine. At that point, I decided to spend the next year working solely on personal projects. 
 
@@ -17,6 +17,8 @@ The answer I have to those questions is an emphatic "YES". The reason for that a
 
 And so, at the start of 2022, I asked myself: "How can I contribute to the future of explainable AI? What are the possible frontiers that my humble mind can comprehend?" 
 
+## Choosing Decision Theory
+
 After much deliberation, I came to believe that those frontiers would lie in undiscovered innovations of decision theory and probabilistic reasoning. After all, aren't the most valuable decisions regarding uncertain outcomes?
 
 And, if we are to create truly transparent "thinking machines", must we not find an objective way to translate uncertainty into human language (and vice versa)?
@@ -25,9 +27,13 @@ Thankfully, such a daunting task is not one that we embark on from scratch. For 
 
 Whilst reading the works of Bayesian pioneers (such as Jeffreys and Jaynes, and even Gibbs(!) and Laplace(!!)), it suddenly became apparent to me that a large body of work from the early 50s to the late 80s contained incredibly important, but mostly forgotten insights. 
 
+## Forgotten Breakthroughs
+
 Though perhaps not *completely* forgotten, many important discoveries regarding Bayesian inference remain trapped in academic niches. These niches are themselves stuck in a time when the computer was still in its infancy, and when analytical (not computational) solutions limited the scope of possible progress.
 
 When I realised this, I decided to create a website (this website), which I would use to publish lesser-known but valuable concepts: not just from Bayesian inference, but from other relevant fields also. My hopes are that the blogposts, projects and open-source code that I write will illustrate to others how valuable those concepts are. And perhaps even connect those ideas to more current and pressing issues. For example, the measurement and removal of unwanted bias from automated decision processes.
+
+## Thoughts on the Future of Explainable AI
 
 There is no way to know when a paradigm shift will occur in Explainable AI, or what it will look like when it does occur. But I am confident that, whenever such a breakthrough will happen, it will not be due to the discovery of new and exotic methods for encoding and decoding *patterns*. 
 
