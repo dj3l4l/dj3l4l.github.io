@@ -90,7 +90,14 @@ img { display: block; max-width: 100%; }
   font-size: 0;
   backdrop-filter: blur(8px);
 }
-.site-nav summary::before { content: '☰'; font-size: 1.05rem; }
+.site-nav summary::before {
+  content: '';
+  width: 1rem;
+  height: 2px;
+  border-radius: 1px;
+  background: currentColor;
+  box-shadow: 0 -.32rem currentColor, 0 .32rem currentColor;
+}
 .site-nav summary::-webkit-details-marker { display: none; }
 .site-nav ul {
   width: 13rem;
