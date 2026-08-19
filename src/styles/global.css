@@ -129,8 +129,8 @@ img { display: block; max-width: 100%; }
 }
 
 .identity-card {
-  width: min(100%, 36rem);
-  padding: 1.2rem 2.25rem 1.6rem;
+  width: min(100%, 43rem);
+  padding: 1.45rem 2.5rem 1.55rem;
   text-align: center;
   animation: arrive .7s ease-out both;
 }
@@ -141,8 +141,8 @@ img { display: block; max-width: 100%; }
 }
 
 .portrait {
-  width: 7.6rem;
-  height: 7.6rem;
+  width: 8.75rem;
+  height: 8.75rem;
   aspect-ratio: 1;
   margin: 0 auto .8rem;
   border: 3px solid var(--paper);
@@ -151,15 +151,20 @@ img { display: block; max-width: 100%; }
   object-fit: cover;
 }
 
-.identity-card h1 { margin: 0; font-size: 1.2rem; font-weight: 400; }
-.identity-card hr { width: 68%; margin: 1rem auto; border: 0; border-top: 1px solid var(--line); }
-.tagline { margin: .45rem 0; color: var(--muted); font-size: .95rem; }
-.bio { display: grid; gap: .75rem; margin: 0; font-size: .94rem; }
-.bio p { margin: 0; }
+.identity-card h1 { margin: 0; font-size: 1.28rem; font-weight: 400; }
+.role { margin: .18rem 0 0; color: var(--green); font-size: .78rem; letter-spacing: .055em; text-transform: uppercase; }
+.tagline { width: 100%; margin: .85rem auto 0; color: var(--muted); font-size: .96rem; white-space: nowrap; }
+.profile-summary { display: grid; width: 100%; margin: 1.5rem auto 1.4rem; text-align: left; }
+.profile-summary section { display: grid; grid-template-columns: 7.5rem minmax(0, 1fr); align-items: baseline; gap: 1.25rem; padding: .4rem .75rem; }
+.profile-summary section + section { margin-top: .25rem; }
+.profile-summary h2 { margin: 0; color: var(--amber); font-size: .68rem; font-weight: 500; letter-spacing: .14em; text-transform: uppercase; }
+.profile-summary p { margin: 0; color: var(--ink); font-size: .86rem; line-height: 1.55; }
 .social-links,
 .primary-links { display: flex; flex-wrap: wrap; justify-content: center; gap: .35rem 1.15rem; }
-.social-links a { color: var(--muted); font-size: .78rem; letter-spacing: .05em; text-decoration: none; text-transform: uppercase; }
-.primary-links a { color: var(--ink); font-size: .92rem; text-decoration: none; }
+.social-links { margin-top: .9rem; }
+.social-links a { color: var(--muted); font-size: .66rem; letter-spacing: .08em; text-decoration: none; text-transform: uppercase; }
+.primary-links { gap: .4rem 1.65rem; margin-top: .15rem; }
+.primary-links a { color: var(--ink); font-size: .94rem; text-decoration: none; }
 
 .page-shell { min-height: 100vh; padding: 4rem 1.25rem; }
 .paper { padding: clamp(1.5rem, 5vw, 4rem); }
@@ -192,6 +197,11 @@ img { display: block; max-width: 100%; }
   .home-shell { padding: 4rem 0 0; align-items: start; }
   .identity-card, .paper { border: 0; border-radius: 0; box-shadow: none; }
   .identity-card { width: 100%; padding-inline: 1.25rem; }
+  .tagline { white-space: normal; }
+  .profile-summary { max-width: 22rem; text-align: center; }
+  .profile-summary section { display: block; padding: .4rem .25rem; }
+  .profile-summary section + section { margin-top: .65rem; padding-top: .4rem; }
+  .profile-summary h2 { margin-bottom: .4rem; }
   .page-shell { padding: 3.7rem 0 0; }
   .paper { padding: 1.5rem; }
   .site-nav { top: .7rem; left: .7rem; }

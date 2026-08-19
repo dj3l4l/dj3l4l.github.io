@@ -8,21 +8,26 @@ import { site } from '../data/site';
     <section class="identity-card" aria-labelledby="site-title">
       <img class="portrait" src="/assets/img/me_circular.jpg" alt="Portrait of Djelal Osman" width="400" height="400" />
       <h1 id="site-title">{site.title}</h1>
+      <p class="role">Research scientist · Algorithms engineer</p>
       <p class="tagline">{site.description}</p>
-      <hr />
-      <div class="bio">
-        {site.bio.map((line) => <p>{line}</p>)}
+      <div class="profile-summary">
+        <section>
+          <h2>Currently</h2>
+          <p>Building AI tools for a greener construction industry at Converge.</p>
+        </section>
+        <section>
+          <h2>Interested in</h2>
+          <p>Novel concrete · Probability and information theory · Computer vision · Machine learning · Graph theory · Applied mathematics</p>
+        </section>
       </div>
-      <hr />
-      <div class="social-links" aria-label="Social links">
-        {site.social.map(({ label, href }) => <a href={href} rel="me noreferrer">{label}</a>)}
-      </div>
-      <hr />
       <nav class="primary-links" aria-label="Primary">
         <a href="/about/">About</a>
         <a href="/posts/">Posts</a>
         <a href="/projects/">Projects</a>
       </nav>
+      <div class="social-links" aria-label="Social links">
+        {site.social.map(({ label, href }) => <a href={href} rel="me noreferrer">{label}</a>)}
+      </div>
     </section>
   </main>
 </BaseLayout>

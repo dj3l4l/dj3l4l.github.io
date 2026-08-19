@@ -1,6 +1,6 @@
 # Astro migration workspace
 
-This branch contains an Astro replacement for the existing Jekyll/Moon site. The original Jekyll files remain in place temporarily as the source of truth for visual and URL comparisons.
+This branch contains the Astro replacement for the former Jekyll/Moon site. The retired implementation remains available in Git history if a visual or content comparison is ever needed.
 
 ## Local preview
 
@@ -58,4 +58,4 @@ import Example from '../../components/Example';
 - `/personal-interests-and-motivations/`
 - `/404`
 
-The migration also adds `/entropy-simplex-experiment/` as an MDX/React proof of concept.
+Local experiments can be kept under `tmp/`. That directory is ignored by Git and is not included in production builds.

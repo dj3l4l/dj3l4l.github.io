@@ -11,7 +11,7 @@ export const site = {
   email: 'blog@djelalosman.com',
   social: [
     { label: 'Email', href: 'mailto:blog@djelalosman.com' },
-    { label: 'X / Twitter', href: 'https://twitter.com/dj3l4l' },
+    { label: 'X / Twitter', href: 'https://twitter.com/djelal' },
     { label: 'LinkedIn', href: 'https://linkedin.com/in/djelalosman' },
     { label: 'GitHub', href: 'https://github.com/dj3l4l' },
   ],
