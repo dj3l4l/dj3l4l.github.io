@@ -1,0 +1,21 @@
+---
+import { getCollection } from 'astro:content';
+import PageLayout from '../layouts/PageLayout.astro';
+
+const posts = await getCollection('blog', ({ data }) => !data.draft);
+const tags = [...new Set(posts.flatMap((post) => post.data.tags))].sort();
+---
+
+<PageLayout title="All Tags">
+  <ul class="tag-list">
+    {tags.map((tag) => <li><a href={`#${tag.toLowerCase().replaceAll(' ', '-')}`}>{tag}</a></li>)}
+  </ul>
+  {tags.map((tag) => (
+    <section id={tag.toLowerCase().replaceAll(' ', '-')}>
+      <h2>{tag}</h2>
+      <ul>
+        {posts.filter((post) => post.data.tags.includes(tag)).map((post) => <li><a href={`/${post.id}/`}>{post.data.title}</a></li>)}
+      </ul>
+    </section>
+  ))}
+</PageLayout>

@@ -1,0 +1,15 @@
+---
+import { getCollection } from 'astro:content';
+import PageLayout from '../layouts/PageLayout.astro';
+
+const projects = (await getCollection('blog', ({ data }) => !data.draft && data.project))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<PageLayout title="All Projects">
+  {projects.length ? (
+    <ul class="post-list">
+      {projects.map((project) => <li><h2><a href={`/${project.id}/`}>{project.data.title}</a></h2><p>{project.data.excerpt}</p></li>)}
+    </ul>
+  ) : <p>No projects have been published here yet.</p>}
+</PageLayout>

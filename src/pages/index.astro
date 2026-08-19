@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { site } from '../data/site';
+---
+
+<BaseLayout>
+  <main id="main-content" class="home-shell">
+    <section class="identity-card" aria-labelledby="site-title">
+      <img class="portrait" src="/assets/img/me_circular.jpg" alt="Portrait of Djelal Osman" width="400" height="400" />
+      <h1 id="site-title">{site.title}</h1>
+      <p class="tagline">{site.description}</p>
+      <hr />
+      <div class="bio">
+        {site.bio.map((line) => <p>{line}</p>)}
+      </div>
+      <hr />
+      <div class="social-links" aria-label="Social links">
+        {site.social.map(({ label, href }) => <a href={href} rel="me noreferrer">{label}</a>)}
+      </div>
+      <hr />
+      <nav class="primary-links" aria-label="Primary">
+        <a href="/about/">About</a>
+        <a href="/posts/">Posts</a>
+        <a href="/projects/">Projects</a>
+      </nav>
+    </section>
+  </main>
+</BaseLayout>
