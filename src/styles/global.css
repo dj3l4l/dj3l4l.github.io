@@ -89,6 +89,7 @@ img { display: block; max-width: 100%; }
   background: rgb(24 23 20 / 70%);
   font-size: 0;
   backdrop-filter: blur(8px);
+  list-style: none;
 }
 .site-nav summary::before {
   content: '';
@@ -99,6 +100,7 @@ img { display: block; max-width: 100%; }
   box-shadow: 0 -.32rem currentColor, 0 .32rem currentColor;
 }
 .site-nav summary::-webkit-details-marker { display: none; }
+.site-nav summary::marker { content: ''; }
 .site-nav ul {
   width: 13rem;
   margin: .6rem 0 0;
