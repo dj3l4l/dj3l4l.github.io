@@ -164,7 +164,7 @@ img { display: block; max-width: 100%; }
 .role { margin: .18rem 0 0; color: var(--green); font-size: .78rem; letter-spacing: .055em; text-transform: uppercase; }
 .tagline { width: 100%; margin: .85rem auto 0; color: var(--muted); font-size: .96rem; white-space: nowrap; }
 .profile-summary { display: grid; width: 100%; margin: 1.5rem auto 1.4rem; text-align: left; }
-.profile-summary section { display: grid; grid-template-columns: 7.5rem minmax(0, 1fr); align-items: baseline; gap: 1.25rem; padding: .4rem .75rem; }
+.profile-summary section { display: grid; grid-template-columns: 6.75rem minmax(0, 1fr); align-items: baseline; gap: .75rem; padding: .4rem .75rem; }
 .profile-summary section + section { margin-top: .25rem; }
 .profile-summary h2 { margin: 0; color: var(--amber); font-size: .68rem; font-weight: 500; letter-spacing: .14em; text-transform: uppercase; }
 .profile-summary p { margin: 0; color: var(--ink); font-size: .86rem; line-height: 1.55; }
